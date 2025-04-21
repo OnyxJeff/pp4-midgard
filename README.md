@@ -5,6 +5,18 @@
 
 **Midgard** is the internal Minecraft Bedrock server for my homelab, hosted on a Raspberry Pi 4.
 
+## 📁 Repo Structure
+
+```text
+midgard/
+├── .github/workflows/    # CI for YAML validation
+├── backups/              # Exported or example snapshot files
+├── docker/               # YAML-based -darr stack applications
+└── README.md             # You're reading it!
+```
+
+---
+
 ### 🧰 Services
 - **Minecraft Bedrock Edition**: Hosted in a Docker container and kept lightweight for Pi performance.
 
