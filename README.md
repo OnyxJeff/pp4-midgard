@@ -17,7 +17,7 @@ midgard/
 
 ---
 
-### 🧰 Services
+## 🧰 Services
 - **Minecraft Bedrock Edition**: Hosted in a Docker container and kept lightweight for Pi performance.
 
 ---
