@@ -1,7 +1,10 @@
 # Midgard
 
-![Build](https://github.com/OnyxJeff/Midgard/actions/workflows/build.yml/badge.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-blue)
+![Build Status](https://github.com/OnyxJeff/pp4-midgard/actions/workflows/build.yml/badge.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub release](https://img.shields.io/github/v/release/OnyxJeff/pp4-midgard)
+![Issues](https://img.shields.io/github/issues/OnyxJeff/pp4-midgard)
 
 **Midgard** is the internal Minecraft Bedrock server for my homelab, hosted on a Raspberry Pi 4.
 
